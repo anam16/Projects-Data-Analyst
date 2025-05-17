@@ -81,7 +81,7 @@ The integration of multi-omics data significantly improves the predictive capaci
 ## **How to Reproduce**
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/Projects-Data-Analyst.git
+   git clone https://github.com/anam16/Projects-Data-Analyst.git
    cd Projects-Data-Analyst/Project-1-Prediction-ML/
    ```
 2. Install the necessary R libraries mentioned in `analysis.R`.
