@@ -84,7 +84,7 @@ The integration of multi-omics data significantly improves the predictive capaci
    git clone https://github.com/anam16/Projects-Data-Analyst.git
    cd Projects-Data-Analyst/Project-1-Prediction-ML/
    ```
-2. Install the necessary R libraries mentioned in `analysis.R`.
+2. Install the necessary R libraries mentioned in `Proyecto_ML.Rmd`.
 3. Run the analysis script:
    ```R
-   source("Scripts/analysis.R")
+   source("Scripts/Proyecto_ML.Rmd")
