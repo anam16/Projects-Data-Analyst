@@ -74,8 +74,7 @@ The integration of multi-omics data significantly improves the predictive capaci
 
 ## **Repository Structure**
 - **`Scripts/`**: Contains the R script `Proyecto_ML.Rmd` used for data processing and modeling.
-- **`Data/`**: Example dataset for reproducibility. The data is derived from the study outlined in the paper ["Multi-omic machine learning predictor of breast cancer therapy response"](https://doi.org/10.1038/s41586-021-04278-5).
-- **`Results/`**: Includes visual outputs such as ROC curves and variable importance plots.
+- **`Data/`**: The data is derived from the study outlined in the paper ["Multi-omic machine learning predictor of breast cancer therapy response"](https://doi.org/10.1038/s41586-021-04278-5) and from the GitHub repository [cclab-brca/neoadjuvant-therapy-response-predictor](https://github.com/cclab-brca/neoadjuvant-therapy-response-predictor).
 
 ---
 
