@@ -10,5 +10,5 @@ Welcome to my portfolio of data analysis projects. This repository features proj
 
 2. **[Project 2: Genomic Database Management using MySQL and REST APIs](./Project-2-Genomic-Database-Management/README.md)**  
    Description: A Python project for managing genomic data using MySQL databases and RESTful APIs. Includes database table creation, data insertion, and interactive querying of gene and protein information.  
-   Tools: Python (`mysql-connector`, `requests`), MySQL, REST APIs (Ensembl REST API).
+   Tools: Python (`mysql-connector`, `requests`), MySQL, REST APIs (Ensembl REST API), Jupiter Notebook.
 
