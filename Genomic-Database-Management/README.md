@@ -36,9 +36,9 @@ Install MySQL and create a database with a user account.
    pip install mysql-connector-python requests notebook
    
 4. Run the analysis in Jupyter Notebook:
-   Launch Jupyter Notebook by running:
+Launch Jupyter Notebook by running:
    ```bash
    jupyter notebook
    
-Navigate to the Scripts/ folder and open `Parte1.ipynb` and `Parte2.ipynb`.
+Navigate to the Scripts/ folder and open `Parte1.ipynb` and `Parte2.ipynb`.  
 Execute the notebook cells sequentially to perform database setup, data ingestion, REST API queries, and data analysis.
